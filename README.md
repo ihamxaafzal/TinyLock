@@ -32,8 +32,6 @@
 - Password and encryption key are saved next to the `.exe` as:
   - `password.enc` (encrypted)
   - `secret.key` (used for encryption/decryption)
-- Disables Task Manager by editing Windows Registry.
-- You can restore Task Manager using the script below.
 
 ---
 
