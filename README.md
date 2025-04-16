@@ -1,7 +1,7 @@
 # 🔐 TinyLock | Desktop Lock | Child Lock for Windows PC
 
 **TinyLock** is a fullscreen, password-protected **desktop lockscreen** for Windows. Designed for parents, educators, and individual users, it helps lock the screen and prevent children or others from accessing your computer without the correct password.
-
+## 🔒 Default Password: 1122
 ---
 
 ## ✅ Features
