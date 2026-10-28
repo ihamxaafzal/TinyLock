@@ -15,9 +15,7 @@ using System.Reflection;
 [assembly: AssemblyVersion("2.1.0.0")]
 
 static class Program {
-    [DllImport("user32.dll")] static extern bool SetProcessDPIAware();
     [STAThread] static void Main(string[] args) {
-        SetProcessDPIAware();
         Application.EnableVisualStyles();
         Application.SetCompatibleTextRenderingDefault(false);
         if (args.Length == 1 && args[0] == "--self-test") { SelfTest(); return; }
