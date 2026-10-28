@@ -1,0 +1,9 @@
+tinylock.credentials
+tinylock.credentials.tmp
+password.enc
+secret.key
+*.tmp
+__pycache__/
+bin/
+obj/
+backup-*/
